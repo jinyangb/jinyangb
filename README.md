@@ -33,8 +33,8 @@
 ### Connect With Me?
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jinyangb/" target="blank">LinkedIn  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jy.foto/" target="blank">Instagram  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jinyangb/" target="blank">LinkedIn </a>
+<a href="https://www.instagram.com/jy.foto/" target="blank">Instagram </a>
 </p>
 </p>
 <br/>
