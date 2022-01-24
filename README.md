@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-[![MasterHead]([Imgur](https://imgur.com/gjIFn2T)]()
+[![MasterHead](<blockquote class="imgur-embed-pub" lang="en" data-id="gjIFn2T"><a href="https://imgur.com/gjIFn2T">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)]()
 
 <br/>
 <br/>
@@ -12,7 +12,6 @@
 <!-- **jinyangb/jinyangb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### A little about me:
-
 
 
 - 🔭 I’m currently working on making one mini project everyday. Also working on fixing my car 🚙
@@ -27,7 +26,8 @@
 <br/>
 
 
-### My Top Languages
+### My Top Languages:
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/jinyangb/github-readme-stats)
 
 
@@ -36,7 +36,8 @@
 <br/>
 
 
-### Sometimes you have to try streaking
+### Sometimes you have to try streaking!
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyangb)](https://git.io/streak-stats)
 
@@ -46,7 +47,7 @@
 <br/>
 
 
-### Connect With Me
+### Connect With Me?
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jinyangb/" target="blank">LinkedIn<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
