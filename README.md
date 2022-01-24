@@ -33,7 +33,7 @@
 ### Connect With Me?
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jinyangb/" target="blank">LinkedIn </a>
+<a href="https://www.linkedin.com/in/jinyangb/" target="blank">LinkedIn </a> | 
 <a href="https://www.instagram.com/jy.foto/" target="blank">Instagram </a>
 </p>
 </p>
