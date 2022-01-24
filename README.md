@@ -1,5 +1,6 @@
 <!-- ### Hi there 👋 -->
 
+[![MasterHead](https://imgur.com/gjIFn2T)](https://github.com/jinyangb)
 
 <!--
 **jinyangb/jinyangb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
