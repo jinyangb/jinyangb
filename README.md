@@ -21,9 +21,12 @@
 
 <br/>
 <br/>
+
 ### My Top Languages:
+
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/jinyangb/github-readme-stats)
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/jinyangb/github-readme-stats)
 
 
 <br/>
@@ -32,7 +35,7 @@
 ### Sometimes you have to try streaking!
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyangb)](https://git.io/streak-stats)
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyangb)](https://git.io/streak-stats)
 
 
 <br/>
