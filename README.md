@@ -20,26 +20,25 @@
 - 📫 How to reach me: jinyangb@gmail.com
 
 <br/>
-<br/>
 
 ### My Top Languages:
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 
 <br/>
-<br/>
+
 
 ### Sometimes you have to try streaking!
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyangb)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyangb)
 
 
 <br/>
-<br/>
+
 
 
 ### Connect With Me?
