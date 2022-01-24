@@ -15,7 +15,7 @@
 
 <br/>
 
-### My Top Languages ⬇️
+### My top languages ⬇️
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
