@@ -1,6 +1,3 @@
-### Hi there 👋
-<br/>
-
 ![MasterHead](https://i.imgur.com/gjIFn2T.png)
 
 <br/>
