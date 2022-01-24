@@ -7,15 +7,13 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 <!-- **jinyangb/jinyangb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-A little about me:
+### A little about me:
 
-<br/>
-<br/>
+
 
 - 🔭 I’m currently working on making one mini project everyday. Also working on fixing my car 🚙
 - 💬 Ask me about my favorite color so I can ask you about yours 🙌🏼
@@ -27,8 +25,7 @@ A little about me:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 ### My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/jinyangb/github-readme-stats)
@@ -37,10 +34,9 @@ A little about me:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
-### Sometimes you gotta streak
+
+### Sometimes you have to try streaking
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyangb)](https://git.io/streak-stats)
 
@@ -48,13 +44,9 @@ A little about me:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
-<h3 align="left">Connect with me:</h3>
 
-<br/>
-<br/>
+### Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jinyangb/" target="blank">LinkedIn<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
@@ -62,5 +54,4 @@ A little about me:
 </p>
 </p>
 <br/>
-<br/>
-<br/>
+
