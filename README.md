@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-[![MasterHead](https://www.insperity.com/wp-content/uploads/work-productivity-640x302.png)
+![MasterHead](https://www.insperity.com/wp-content/uploads/work-productivity-640x302.png)
 
 <br/>
 <br/>
