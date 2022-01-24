@@ -21,19 +21,20 @@ A little about me:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/jinyangb/github-readme-stats)
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyangb)](https://git.io/streak-stats)
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/jy.foto/" target="blank">LinkedIn<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<i class="fab fa-instagram"></i>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" color="#E4405F" /></a>
+</p>
 </p>
