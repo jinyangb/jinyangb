@@ -1,18 +1,14 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
 
-[![MasterHead](https://imgur.com/gjIFn2T)](https://github.com/jinyangb)
+[![MasterHead](https://www.insperity.com/wp-content/uploads/work-productivity-640x302.png)]()
 
-<!--
-**jinyangb/jinyangb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/jinyangb)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+<!-- **jinyangb/jinyangb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on making one mini project everyday. Also working on fixing my car.
+- 💬 Ask me about my favorite color so I can ask you about yours.
+- 📫 How to reach me: jinyangb@gmail.com
+- ⚡ Fun fact: The first person convicted of speeding was going eight mph.
+
