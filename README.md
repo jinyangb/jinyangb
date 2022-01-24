@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-![MasterHead](https://www.insperity.com/wp-content/uploads/work-productivity-640x302.png)
+![MasterHead](https://i.imgur.com/gjIFn2T.png)
 
 <br/>
 <br/>
@@ -20,12 +20,8 @@
 - ⚡ Fun fact: The first person convicted of speeding was going eight mph.
 - 📫 How to reach me: jinyangb@gmail.com
 
-
 <br/>
 <br/>
-<br/>
-
-
 ### My Top Languages:
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/jinyangb/github-readme-stats)
@@ -33,8 +29,6 @@
 
 <br/>
 <br/>
-<br/>
-
 
 ### Sometimes you have to try streaking!
 <br/>
@@ -42,7 +36,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyangb)](https://git.io/streak-stats)
 
 
-<br/>
 <br/>
 <br/>
 
