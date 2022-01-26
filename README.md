@@ -7,7 +7,6 @@
 
 ### A little about me:
 
-
 - 🔭 I’m currently working on making one mini project everyday.
 - 🔈 My hobbies include singing 🗣 writing 🖌 photography 📸 and working out🏋🏻‍♀️
 - 💬 Ask me about my favorite color so I can ask you about yours 🙌🏼
