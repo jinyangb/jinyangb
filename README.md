@@ -23,7 +23,7 @@
 
 <br/>
 
-### Sometimes you have to try streaking!
+### Sometimes you have to try streaking 🏃🏻‍♂️
 <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyangb)
