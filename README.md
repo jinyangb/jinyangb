@@ -8,7 +8,7 @@
 
 ### A little about me:
 
-- 🔭 I’m currently working on making one mini project everyday.
+- 🔭 I’m currently working on re-making my portfolio using React.
 - 🔈 My hobbies include singing 🗣 writing 🖌 photography 📸 and working out🏋🏻‍♀️
 - 💬 Ask me about my favorite color so I can ask you about yours 🙌🏼
 - ⚡ Fun fact: The first person convicted of speeding was going eight mph.
